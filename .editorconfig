@@ -2,7 +2,8 @@
 root = true
 
 # Unix-style newlines with a newline ending every file
-[*]
+[*]hdfghdfgh
+
 end_of_line = lf
 insert_final_newline = true
 
